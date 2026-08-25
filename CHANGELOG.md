@@ -1,3 +1,9 @@
+## [3.0.41](https://github.com/rvagg/github-webhook/compare/v3.0.40...v3.0.41) (2026-08-25)
+
+### Trivial Changes
+
+* **deps-dev:** bump brace-expansion from 1.1.12 to 1.1.18 ([#84](https://github.com/rvagg/github-webhook/issues/84)) ([3588f05](https://github.com/rvagg/github-webhook/commit/3588f054cbba124c6be951262067f79e562ff5f2))
+
 ## [3.0.40](https://github.com/rvagg/github-webhook/compare/v3.0.39...v3.0.40) (2026-08-10)
 
 ### Trivial Changes
